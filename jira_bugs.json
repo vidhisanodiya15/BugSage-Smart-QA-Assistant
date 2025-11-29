@@ -1,0 +1,27 @@
+[
+  {
+    "key": "QA-101",
+    "summary": "Login fails on invalid token",
+    "module": "Payments"
+  },
+  {
+    "key": "QA-102",
+    "summary": "Payment duplicate charge",
+    "module": "Payments"
+  },
+  {
+    "key": "QA-103",
+    "summary": "Profile picture not uploading",
+    "module": "Profile"
+  },
+  {
+    "key": "QA-104",
+    "summary": "Search timeout",
+    "module": "Search"
+  },
+  {
+    "key": "QA-105",
+    "summary": "Payment history wrong order",
+    "module": "Payments"
+  }
+]

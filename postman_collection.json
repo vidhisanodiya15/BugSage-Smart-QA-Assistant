@@ -1,0 +1,28 @@
+{
+  "info": {
+    "name": "API Tests"
+  },
+  "item": [
+    {
+      "name": "Login API",
+      "request": {
+        "method": "POST",
+        "url": "https://api.example.com/login"
+      }
+    },
+    {
+      "name": "Get Payment History",
+      "request": {
+        "method": "GET",
+        "url": "https://api.example.com/payments"
+      }
+    },
+    {
+      "name": "Profile API",
+      "request": {
+        "method": "GET",
+        "url": "https://api.example.com/profile"
+      }
+    }
+  ]
+}

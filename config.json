@@ -1,0 +1,13 @@
+{
+  "jira": {
+    "url": "https://your-domain.atlassian.net",
+    "email": "you@example.com",
+    "token": "your_jira_api_token",
+    "project": "QA"
+  },
+  "git": {
+    "repo": "https://github.com/yourorg/qa-reports.git",
+    "branch": "main",
+    "folder": "test_reports"
+  }
+}
